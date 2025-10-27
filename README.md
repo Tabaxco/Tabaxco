@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
+<div style = "display: flex; gap: 10px; align-items: center;">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tabaxco&show_icons=true&theme=dark&include_all_commits=true" alt="GitHub Stats" alt = "Github Stats"/>
     <img height="180em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=tabaxco&layout=compact&langs_count=16&theme=dark" alt = "Top Languages"/>
 </div>
