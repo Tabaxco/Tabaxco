@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá! Eu sou o Guilherme Leite! 👋
 
 <!--
 **Tabaxco/Tabaxco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tabaxco&show_icons=true&theme=dark&include_all_commits=true" alt="GitHub Stats" alt = "Github Stats"/>
+    <img height="180em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=tabaxco&layout=compact&langs_count=16&theme=dark" alt = "Top Languages"/>
+</div>
+
+<div style ="display: inline_block"><br>
+  <img align="center" alt ="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+</div>
+
+##
+
+<div>
+  <a href="https://www.linkedin.com/in/guilherme-leite-rodrigues-640b92154/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:rodriguesgui48@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
+
