@@ -1,6 +1,6 @@
 ## Hi! I'm Guilherme Leite! 👋
 
-I'm a Information Systems student at Senac Santo Amaro. I want to become a back-end developer.
+I want to be a back-end developer.
 <!--
 **Tabaxco/Tabaxco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
