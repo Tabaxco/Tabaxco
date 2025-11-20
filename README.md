@@ -21,10 +21,10 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tabaxco&layout=compact&langs_count=16&theme=github_dark" height="150em" alt="Top Languages"/>
 </div>
 
-## 🧰Languages
+## 🐧Languages
   <img align="center" alt ="Python" src="https://skillicons.dev/icons?i=python,java,swift,mysql"/>
 
-## 🐧Toolbox
+## 🧰Toolbox
   <img align="center" alt ="Python" src="https://skillicons.dev/icons?i=vscode,linux,notion"/>
 
 ## 📱Social Media
