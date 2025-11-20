@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <img align="center" alt ="Python" src="https://skillicons.dev/icons?i=python,java,swift,mysql"/>
 
 ## 🧰Toolbox
-  <img align="center" alt ="Python" src="https://skillicons.dev/icons?i=vscode,linux,notion"/>
+  <img align="center" alt ="Python" src="https://skillicons.dev/icons?i=vscode,linux,notion,git"/>
 
 ## 📱Social Media
 <div> 
