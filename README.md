@@ -1,6 +1,6 @@
 ## Hi! I'm Guilherme Leite! 👋
 
-I want to be a back-end developer.
+A wannabe back-end developer.
 
 <div style="display: flex; gap: 10px; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=tabaxco&show_icons=true&theme=github_dark&count_private=true&v=2" height="150em"/>
