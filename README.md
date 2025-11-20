@@ -21,13 +21,11 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tabaxco&layout=compact&langs_count=16&theme=github_dark" height="150em" alt="Top Languages"/>
 </div>
 
-## 🧰My Toolbox
-<div style ="display: inline_block">
-  <img align="center" alt ="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"/>  
-</div>
+## 🧰Languages
+  <img align="center" alt ="Python" src="https://skillicons.dev/icons?i=python,java,swift,mysql"/>
+
+## 🐧Toolbox
+  <img align="center" alt ="Python" src="https://skillicons.dev/icons?i=vscode,linux,notion"/>
 
 ## 📱Social Media
 <div> 
