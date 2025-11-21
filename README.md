@@ -13,6 +13,8 @@ A wannabe back-end developer.
   <img src="https://skillicons.dev/icons?i=python"/>
   <img src="https://skillicons.dev/icons?i=java" />
   <img src="https://skillicons.dev/icons?i=swift" />
+  <img src="https://skillicons.dev/icons?i=html"/>
+  <img src="https://skillicons.dev/icons?i=css"/>
   <img src="https://skillicons.dev/icons?i=mysql"/>
 </div>
 
