@@ -9,7 +9,7 @@ A wannabe back-end developer.
 
 
 ## 🐧 Knowledge
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 30px;">
   <img src="https://skillicons.dev/icons?i=python"/>
   <img src="https://skillicons.dev/icons?i=java" />
   <img src="https://skillicons.dev/icons?i=swift" />
