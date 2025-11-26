@@ -32,7 +32,4 @@ A wannabe back-end developer.
   <a href="https://www.linkedin.com/in/guilherme-leite-rodrigues-640b92154/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:rodriguesgui48@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail"/>
-  </a>
 </div>
