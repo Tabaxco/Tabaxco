@@ -3,8 +3,8 @@
 A wannabe back-end developer.
 
 <div style="display: flex; gap: 10px; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=tabaxco&show_icons=true&theme=github_dark&count_private=true&v=2" height="150em" alt= "Status do Github"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tabaxco&layout=compact&langs_count=16&theme=github_dark" height="150em" alt="Minhas Linguagens"/>
+    <img src="https://ghstats.vercel.app/api?username=tabaxco&show_icons=true&theme=github_dark&count_private=true" height="150em" alt= "Status do Github"/>
+    <img src="https://ghstats.vercel.app/api/top-langs/?username=tabaxco&layout=compact&langs_count=16&theme=github_dark" height="150em" alt="Minhas Linguagens"/>
 </div>
 
 
