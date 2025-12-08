@@ -21,7 +21,6 @@ A wannabe back-end developer.
 ## 🧰 Toolbox
 <div style="display: flex; gap: 10px;">
   <img src="https://skillicons.dev/icons?i=vscode" />
-  <img src="https://skillicons.dev/icons?i=idea"/>
   <img src="https://skillicons.dev/icons?i=idea" />
   <img src="https://skillicons.dev/icons?i=linux" />
   <img src="https://skillicons.dev/icons?i=notion" />
