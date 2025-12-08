@@ -21,6 +21,7 @@ A wannabe back-end developer.
 ## 🧰 Toolbox
 <div style="display: flex; gap: 10px;">
   <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=idea" />
   <img src="https://skillicons.dev/icons?i=linux" />
   <img src="https://skillicons.dev/icons?i=notion" />
   <img src="https://skillicons.dev/icons?i=git" />
@@ -31,5 +32,8 @@ A wannabe back-end developer.
 <div style="display: flex; gap: 10px;">
   <a href="https://www.linkedin.com/in/guilherme-leite-rodrigues-640b92154/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://discordapp.com/users/422909140977975296" target="_blank">
+      <img src="https://skillicons.dev/icons?i=discord"/>
   </a>
 </div>
