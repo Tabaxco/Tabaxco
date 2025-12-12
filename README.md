@@ -11,6 +11,7 @@ A wannabe back-end developer.
 ## 🐧 Knowledge
 <div style="display: flex; gap: 30px;">
   <img src="https://skillicons.dev/icons?i=python"/>
+  <img src="https://skillicons.dev/icons?i=js" />
   <img src="https://skillicons.dev/icons?i=java" />
   <img src="https://skillicons.dev/icons?i=html"/>
   <img src="https://skillicons.dev/icons?i=css"/>
