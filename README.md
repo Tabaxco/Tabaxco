@@ -1,6 +1,6 @@
 ## Hi! I'm Guilherme Leite! 👋
 
-Only Guilherme.
+Only Guilherme, a wannabe back-end dev.
 
 <div style="display: flex; gap: 10px; align-items: center;">
     <img src="https://ghstats.vercel.app/api?username=tabaxco&show_icons=true&theme=github_dark&count_private=true" height="150em" alt= "Status do Github"/>
