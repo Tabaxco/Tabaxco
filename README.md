@@ -25,8 +25,10 @@ A wannabe back-end dev.
   <img src="https://skillicons.dev/icons?i=idea" />
   <img src="https://skillicons.dev/icons?i=pycharm" />
   <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://skillicons.dev/icons?i=ubuntu" />
   <img src="https://skillicons.dev/icons?i=windows" />  
   <img src="https://skillicons.dev/icons?i=notion" />
+  <img src="https://skillicons.dev/icons?i=obsidian" />
   <img src="https://skillicons.dev/icons?i=git" />
 </div>
 
