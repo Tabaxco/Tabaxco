@@ -1,6 +1,6 @@
 ## Hi! I'm Guilherme Leite! 👋
 
-I'm Guilherme, a wannabe back-end dev/cybersecurity analyst.\
+A wannabe back-end dev/cybersecurity analyst.\
 I love Linux. 
 
 <div style="display: flex; gap: 10px; align-items: center;">
