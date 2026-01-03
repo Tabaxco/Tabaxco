@@ -1,6 +1,7 @@
 ## Hi! I'm Guilherme Leite! 👋
 
-A wannabe back-end dev.
+I'm Guilherme, a wannabe back-end dev/cybersecurity analyst.\
+I love Linux. 
 
 <div style="display: flex; gap: 10px; align-items: center;">
     <img src="https://ghstats.vercel.app/api?username=tabaxco&show_icons=true&theme=github_dark&count_private=true" height="150em" alt= "Status do Github"/>
