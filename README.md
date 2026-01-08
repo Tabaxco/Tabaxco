@@ -28,7 +28,6 @@ I love Linux. You should use it too.
   <img src="https://skillicons.dev/icons?i=debian" />
   <img src="https://skillicons.dev/icons?i=windows" />  
   <img src="https://skillicons.dev/icons?i=notion" />
-  <img src="https://skillicons.dev/icons?i=obsidian" />
   <img src="https://skillicons.dev/icons?i=git" />
 </div>
 
