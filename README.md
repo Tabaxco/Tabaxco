@@ -23,7 +23,6 @@ I love Linux. You should use it too.
 <div style="display: flex; gap: 10px;">
   <img src="https://skillicons.dev/icons?i=vscode" />
   <img src="https://skillicons.dev/icons?i=idea" />
-  <img src="https://skillicons.dev/icons?i=pycharm" />
   <img src="https://skillicons.dev/icons?i=linux" />
   <img src="https://skillicons.dev/icons?i=ubuntu" />
   <img src="https://skillicons.dev/icons?i=debian" />
