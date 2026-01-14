@@ -8,22 +8,13 @@ I love Linux. You should use it too.
     <img src="https://ghstats.vercel.app/api/top-langs/?username=tabaxco&layout=compact&langs_count=16&theme=github_dark&v=20251322T18" height="150em" alt = "My Languages"/>
 </div>
 
-
-## 🐧 Knowledge
-<div style="display: flex; gap: 30px;">
+## 🧰 Toolbox
+<div style="display: flex; gap: 10px;">
   <img src="https://skillicons.dev/icons?i=java"/>
   <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://skillicons.dev/icons?i=mysql"/>
-</div>
-
-
-## 🧰 Toolbox
-<div style="display: flex; gap: 10px;">
-  <img src="https://skillicons.dev/icons?i=vscode" />
-  <img src="https://skillicons.dev/icons?i=idea" />
   <img src="https://skillicons.dev/icons?i=linux" />
   <img src="https://skillicons.dev/icons?i=windows" />  
-  <img src="https://skillicons.dev/icons?i=notion" />
   <img src="https://skillicons.dev/icons?i=git" />
 </div>
 
