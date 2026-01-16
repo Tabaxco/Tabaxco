@@ -16,7 +16,7 @@ I'm a passionate developer focused on building robust back-end systems. Always h
 > **Currently learning:** Spring Boot
 ---
 
-### 📊 GitHub Ecosystem
+### 📊 Stats
 <p align="center">
   <img src="https://ghstats.vercel.app/api?username=tabaxco&show_icons=true&theme=github_dark&count_private=true" height="165em" alt="Guilherme's Stats"/>
   <img src="https://ghstats.vercel.app/api/top-langs/?username=tabaxco&layout=compact&langs_count=6&theme=github_dark" height="165em" alt="Top Languages"/>
