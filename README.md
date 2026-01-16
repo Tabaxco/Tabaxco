@@ -4,7 +4,7 @@
 
 ### 🚀 Aspiring Back-end Developer 
 
-I'm a passionate developer focused on building robust back-end systems. Always honing my skills.
+A wannabe Back-End Dev.
 
 ---
 
