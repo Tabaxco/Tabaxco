@@ -1,10 +1,10 @@
 <h1 align="center">
-  🐧 Hello! I'm Guilherme Leite!
+  ☕ Hello! I'm Guilherme Leite!
 </h1>
 
-### 🚀 Aspiring Back-end Developer 
+### 🐧 A wannabe Back-end Developer 
 
-A wannabe back-end dev.
+My name is Guilherme. Code is all I do.
 
 ---
 
