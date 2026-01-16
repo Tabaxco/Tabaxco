@@ -4,7 +4,7 @@
 
 ### 🐧 A wannabe Back-end Developer 
 
-My name is Guilherme. Code is all I do.
+My name is Guilherme, and coding is what I do.
 
 ---
 
