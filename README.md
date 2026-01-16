@@ -1,4 +1,7 @@
-# 🐧 Hello! I'm Guilherme Leite!
+<h1 align="center">
+  🐧 Hello! I'm Guilherme Leite!
+</h1>
+
 ### 🚀 Aspiring Back-end Developer 
 
 I'm a passionate developer focused on building robust back-end systems. Always honing my skills.
