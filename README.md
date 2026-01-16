@@ -1,31 +1,35 @@
-# Hi! I'm Guilherme Leite! 👋
+# 🐧 Hello! I'm Guilherme Leite!
+### 🚀 Aspiring Back-end Developer 
 
-A wannabe back-end dev.
+I'm a passionate developer focused on building robust back-end systems. Always honing my skills.
 
-## 🧰 Tech Stack & Toolkit
-<div style="display: flex; gap: 10px;">
-  <img src="https://skillicons.dev/icons?i=java"/>
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=mysql"/>
-  <img src="https://skillicons.dev/icons?i=linux" />
-  <img src="https://skillicons.dev/icons?i=windows" />  
-  <img src="https://skillicons.dev/icons?i=git" />
-</div>
+---
 
-
-## GitHub Stats
-<div style="display: flex; gap: 10px; align-items: center;">
-    <img src="https://ghstats.vercel.app/api?username=tabaxco&show_icons=true&theme=github_dark&count_private=true" height="150em" alt= "Status do Github"/>
-    <img src="https://ghstats.vercel.app/api/top-langs/?username=tabaxco&layout=compact&langs_count=16&theme=github_dark&v=20251322T18" height="150em" alt = "My Languages"/>
-</div>
-
-
-## 📱 Socials
-<div style="display: flex; gap: 10px;">
-  <a href="https://www.linkedin.com/in/guilherme-leite-rodrigues-640b92154/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+### 🧰 Tech Stack & Toolkit
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,mysql,linux,windows,git" />
   </a>
-  <a href="https://discordapp.com/users/422909140977975296" target="_blank">
-      <img src="https://skillicons.dev/icons?i=discord"/>
+</p>
+
+> [!TIP]
+> **Currently learning:** Spring Boot
+---
+
+### 📊 GitHub Ecosystem
+<p align="center">
+  <img src="https://ghstats.vercel.app/api?username=tabaxco&show_icons=true&theme=github_dark&count_private=true" height="165em" alt="Guilherme's Stats"/>
+  <img src="https://ghstats.vercel.app/api/top-langs/?username=tabaxco&layout=compact&langs_count=6&theme=github_dark" height="165em" alt="Top Languages"/>
+</p>
+
+---
+
+### 📱 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/guilherme-leite-rodrigues-640b92154/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</div>
+  <a href="https://discordapp.com/users/422909140977975296">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
