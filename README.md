@@ -11,7 +11,7 @@ My name is Guilherme, and coding is what I do.
 ### 🧰 Tech Stack & Toolkit
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,html,css, mysql,linux,windows,git" />
+    <img src="https://skillicons.dev/icons?i=java,python,html,css,mysql,linux,windows,git" />
   </a>
 </p>
 
