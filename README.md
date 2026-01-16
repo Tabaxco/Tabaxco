@@ -15,8 +15,9 @@ A wannabe back-end dev.
   </a>
 </p>
 
-> [!TIP]
-> **Currently learning:** Spring Boot
+> [!NOTE]
+**Currently learning:** Spring Boot
+
 ---
 
 ### 📊 Stats
