@@ -1,4 +1,4 @@
-## Hi! I'm Guilherme Leite! 👋
+# Hi! I'm Guilherme Leite! 👋
 
 A wannabe back-end dev.
 
