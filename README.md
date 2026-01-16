@@ -4,7 +4,7 @@
 
 ### 🚀 Aspiring Back-end Developer 
 
-A wannabe Back-End Dev.
+A wannabe back-end dev.
 
 ---
 
