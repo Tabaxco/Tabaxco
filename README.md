@@ -1,34 +1,38 @@
-<h1 align="center">
-  ☕ Hello! I'm Guilherme Leite!
-</h1>
 
-### 🐧 A wannabe Back-end Developer 
 
-My name is Guilherme, and coding is what I do.
+# 👋 Hello! I'm Guilherme Leite
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Openlogo-debianV2.svg/500px-Openlogo-debianV2.svg.png" alt="Debian" width="100px" align="right">
+
+I am a **Back-end Developer** in the making. I enjoy building robust logic and exploring how systems communicate under the hood. Currently, I'm focusing my energy on mastering the **Java ecosystem**.
+
+* 🌱 **Currently learning:** Spring Boot & REST APIs.
+* 💻 **Focus:** Efficient Back-end architectures and Database management.
+* 🐧 **Environment:** Linux enthusiast.
 
 ---
 
-### 🧰 Tech Stack & Toolkit
+### 🚀 Tech Stack
+
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,html,css,mysql,linux,windows,git" />
+    <img src="https://skillicons.dev/icons?i=java,python,mysql,linux,git,html,css" />
   </a>
 </p>
 
-> [!NOTE]
-**Currently learning:** Spring Boot
-
 ---
 
-### 📊 Stats
-<p align="center">
-  <img src="https://ghstats.vercel.app/api?username=tabaxco&show_icons=true&theme=github_dark&count_private=true" height="165em" alt="Guilherme's Stats"/>
-  <img src="https://ghstats.vercel.app/api/top-langs/?username=tabaxco&layout=compact&langs_count=6&theme=github_dark" height="165em" alt="Top Languages"/>
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://ghstats.vercel.app/api?username=tabaxco&show_icons=true&theme=github_dark&count_private=true" height="150em" />
+  <img src="https://ghstats.vercel.app/api/top-langs/?username=tabaxco&layout=compact&langs_count=4&theme=github_dark" height="150em" />
 </p>
 
 ---
 
-### 📱 Connect with Me
+### 📫 Connect with Me
+
 <p align="left">
   <a href="https://www.linkedin.com/in/guilherme-leite-rodrigues-640b92154/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
