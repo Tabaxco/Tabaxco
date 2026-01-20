@@ -6,7 +6,7 @@
 
 I am a **Back-end Developer** in the making. I enjoy building robust logic and exploring how systems communicate under the hood. Currently, I'm focusing my energy on mastering the **Java ecosystem**.
 
-* 🌱 **Currently learning:** Spring Boot & REST APIs.
+* 🌱 **Currently learning:** Spring Boot.
 * 💻 **Focus:** Efficient Back-end architectures and Database management.
 * 🐧 **Environment:** Linux enthusiast.
 
