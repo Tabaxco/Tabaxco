@@ -16,7 +16,7 @@ I am a **Back-end Developer** in the making. I enjoy building robust logic and e
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,mysql,linux,git,html,css" />
+    <img src="https://skillicons.dev/icons?i=java,spring,python,bash,mysql,linux,git,html,css" />
   </a>
 </p>
 
