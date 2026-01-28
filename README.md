@@ -16,7 +16,7 @@ I am a **Back-end Developer** in the making. I enjoy building robust logic and e
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,bash,mysql,linux,git,html,css" />
+    <img src="https://skillicons.dev/icons?i=java,spring,python,bash,postgres,mysql,linux,git,html,css" />
   </a>
 </p>
 
@@ -26,7 +26,7 @@ I am a **Back-end Developer** in the making. I enjoy building robust logic and e
 
 <p align="center">
   <img src="https://ghstats.vercel.app/api?username=tabaxco&show_icons=true&theme=github_dark&count_private=true" height="150em" />
-  <img src="https://ghstats.vercel.app/api/top-langs/?username=tabaxco&layout=compact&langs_count=4&theme=github_dark&v=20261432T18" height="150em" />
+  <img src="https://ghstats.vercel.app/api/top-langs/?username=tabaxco&layout=compact&langs_count=4&theme=github_dark&v=20267432T18" height="150em" />
 </p>
 
 ---
