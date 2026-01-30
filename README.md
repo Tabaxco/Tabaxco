@@ -26,7 +26,7 @@ I am a **Back-end Developer** in the making. I enjoy building robust logic and e
 
 <p align="center">
   <img src="https://ghstats.vercel.app/api?username=tabaxco&show_icons=true&theme=github_dark&count_private=true" height="150em" />
-  <img src="https://ghstats.vercel.app/api/top-langs/?username=tabaxco&layout=compact&langs_count=4&theme=github_dark&v=20267632T18" height="150em" />
+  <img src="https://ghstats.vercel.app/api/top-langs/?username=tabaxco&layout=compact&langs_count=4&theme=github_dark&v=20268632T18" height="150em" />
 </p>
 
 ---
