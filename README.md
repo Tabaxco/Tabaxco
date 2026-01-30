@@ -1,6 +1,7 @@
 
 
 # 👋 Hello! I'm Guilherme Leite
+*Back-End Developer*
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Openlogo-debianV2.svg/500px-Openlogo-debianV2.svg.png" alt="Debian" width="110px" align="right">
 
@@ -12,7 +13,7 @@ I am a **Back-end Developer** in the making. I enjoy building robust logic and e
 
 ---
 
-### 🚀 Tech Stack
+<h3 align="left"> 🚀 Tech Stack </h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -22,7 +23,7 @@ I am a **Back-end Developer** in the making. I enjoy building robust logic and e
 
 ---
 
-### 📊 GitHub Stats
+<h3 align="left">📊 GitHub </h3>
 
 <p align="center">
   <img src="https://ghstats.vercel.app/api?username=tabaxco&show_icons=true&theme=github_dark&count_private=true" height="150em" />
@@ -31,7 +32,7 @@ I am a **Back-end Developer** in the making. I enjoy building robust logic and e
 
 ---
 
-### 📫 Connect with Me
+<h3 align="left">📫 Connect with Me</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/guilherme-leite-rodrigues-640b92154/">
