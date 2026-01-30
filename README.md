@@ -7,7 +7,7 @@
 
 <p> I am a <b>Back-End Developer</b> in the making. I enjoy building robust logic and exploring how systems communicate under the hood. Currently, I'm focusing my energy on mastering the Java ecosystem. </p>
 
-* 🌱 **Currently learning:** Spring Boot.
+* 🌱 **Currently learning:** Spring Boot, Go.
 * 💻 **Focus:** Efficient Back-end architectures and Database management.
 * 🐧 **Environment:** Linux enthusiast.
 
@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,bash,postgres,mysql,linux,git&perline=4" />
+    <img src="https://skillicons.dev/icons?i=java,spring,go,python,bash,postgres,mysql,linux,git&perline=5" />
   </a>
 </p>
 
