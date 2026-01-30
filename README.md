@@ -33,7 +33,7 @@ I am a **Back-end Developer** in the making. I enjoy building robust logic and e
 
 ### 📫 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/guilherme-leite-rodrigues-640b92154/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
