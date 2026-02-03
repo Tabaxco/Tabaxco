@@ -27,7 +27,7 @@
 
 <p align="center">
   <img src="https://ghstats.vercel.app/api?username=tabaxco&show_icons=true&theme=github_dark&count_private=true" height="150em" />
-  <img src="https://ghstats.vercel.app/api/top-langs/?username=tabaxco&layout=compact&langs_count=4&theme=github_dark&v=20268672T18" height="150em" />
+  <img src="https://ghstats.vercel.app/api/top-langs/?username=tabaxco&layout=compact&langs_count=4&theme=github_dark&v=20263672T18" height="150em" />
 </p>
 
 ---
