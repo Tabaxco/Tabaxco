@@ -5,7 +5,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Openlogo-debianV2.svg/500px-Openlogo-debianV2.svg.png" alt="Debian" width="110px" align="right">
 
-<p> I am a <b>Back-End Developer</b> in the making. I enjoy building robust logic and exploring how systems communicate under the hood. Currently, I'm focusing my energy on mastering the Java ecosystem. </p>
+<p> I am a <b>Back-End Developer</b> in the making. I enjoy building robust logic and exploring how systems communicate under the hood. I'm currently focused on mastering the Java ecosystem. </p>
 
 * 🌱 **Currently learning:** Spring Boot, Go.
 * 💻 **Focus:** Efficient Back-end architectures and Database management.
