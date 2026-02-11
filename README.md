@@ -3,8 +3,6 @@
 # 👋 Hello! I'm Guilherme Leite
 *Back-End Developer*
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Fedora_icon_%282021%29.svg" alt="Debian" width="110px" align="right">
-
 <p> I am a <b>Back-End Developer</b> in the making. I enjoy building robust logic and exploring how systems communicate under the hood. I'm currently focused on mastering the Java ecosystem. </p>
 
 * 🌱 **Currently learning:** Spring Boot, Go.
