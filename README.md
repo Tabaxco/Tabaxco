@@ -5,7 +5,7 @@
 
 <p> I am a <b>Back-End Developer</b> in the making. I enjoy building robust logic and exploring how systems communicate under the hood. I'm currently focused on mastering the Java ecosystem. </p>
 
-* 🌱 **Currently learning:** Spring Boot.
+* 🌱 **Currently learning:** Spring Boot, Go.
 * 💻 **Focus:** Efficient Back-end architectures and Database management.
 * 🐧 **Environment:** Linux enthusiast.
 
