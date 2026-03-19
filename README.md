@@ -1,6 +1,6 @@
 
 
-# 👋 Hello! I'm Guilherme Leite
+# 👋 Hello! I'm Guilherme Leite, sou um beta
 *Back-End Developer*
 
 <p> I am a <b>Back-End Developer</b> in the making. I enjoy building robust logic and exploring how systems communicate under the hood. I'm currently focused on mastering the Java ecosystem. </p>
@@ -15,7 +15,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,go,mysql,postgres,linux,git,docker,postman&perline=5" />
+    <img src="https://skillicons.dev/icons?i=java,spring,python,go&perline=6" /> <br>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,linux,git,docker,postman"/>
   </a>
 </p>
 
