@@ -1,6 +1,6 @@
 
 
-# 👋 Hello! I'm Guilherme Leite, sou um beta
+# 👋 Hello! I'm Guilherme Leite
 *Back-End Developer*
 
 <p> I am a <b>Back-End Developer</b> in the making. I enjoy building robust logic and exploring how systems communicate under the hood. I'm currently focused on mastering the Java ecosystem. </p>
