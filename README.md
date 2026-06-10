@@ -23,6 +23,7 @@ I am a **Back-End Developer** in the making.<br/><br/>I enjoy building robust lo
 ![Java](https://img.shields.io/badge/Java-0a0a0a?style=for-the-badge&logo=openjdk&logoColor=c8a050)
 ![Spring](https://img.shields.io/badge/Spring-0a0a0a?style=for-the-badge&logo=spring&logoColor=c8a050)
 ![Python](https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=c8a050)
+![Go](https://img.shields.io/badge/Go-0a0a0a?style=for-the-badge&logo=go&logoColor=c8a050)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=c8a050)
 ![MySQL](https://img.shields.io/badge/MySQL-0a0a0a?style=for-the-badge&logo=mysql&logoColor=c8a050)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0a?style=for-the-badge&logo=postgresql&logoColor=c8a050)
