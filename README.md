@@ -1,42 +1,41 @@
+<div align="center">
+  <img src="https://media.discordapp.net/attachments/1356645331181244558/1514352165383180348/content.png?ex=6a2b0ddb&is=6a29bc5b&hm=84f37c2e04fe05b7d25cfd23bd564fad8bd6987130027faff593439e325dfd98&=&format=webp&quality=lossless&width=1198&height=479" alt="Tabaxco banner" width="100%"/>
+</div>
 
+<br/>
 
-# 👋 Hello! I'm Guilherme Leite
-*Back-End Developer*
-
-<p> I am a <b>Back-End Developer</b> in the making. I enjoy building robust logic and exploring how systems communicate under the hood. I'm currently focused on mastering the Java ecosystem. </p>
-
-* 🌱 **Currently learning:** Spring Boot, Go.
-* 💻 **Focus:** Efficient Back-end architectures and Database management.
-* 🐧 **Environment:** Linux enthusiast.
-
----
-
-<h3 align="left"> 🚀 Tech Stack </h3>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,go,mysql,postgres,linux,git,docker,postman&perline=5" /> <br>
+<div align="center">
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LINKEDIN-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=c8a050"/>
   </a>
-</p>
-
----
-
-<h3 align="left">📊 GitHub </h3>
-
-<p align="center">
-  <img src="https://ghstats.vercel.app/api?username=tabaxco&show_icons=true&theme=github_dark&count_private=true" height="150em" />
-  <img src="https://ghstats.vercel.app/api/top-langs/?username=tabaxco&layout=compact&langs_count=4&theme=github_dark&v=20263090T18" height="150em" />
-</p>
-
----
-
-<h3 align="left">📫 Connect with Me</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/guilherme-leite-rodrigues-640b92154/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://discord.com/users/SEU_DISCORD_ID">
+    <img src="https://img.shields.io/badge/DISCORD-0a0a0a?style=for-the-badge&logo=discord&logoColor=c8a050"/>
   </a>
-  <a href="https://discordapp.com/users/422909140977975296">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
+</div>
+
+## Know About Me
+I am a **Back-End Developer** in the making.<br/><br/>I enjoy building robust logic and exploring how systems communicate under the hood. 
+
+## Technical Arsenal
+
+<div align="center">
+  
+![Java](https://img.shields.io/badge/Java-0a0a0a?style=for-the-badge&logo=openjdk&logoColor=c8a050)
+![Spring](https://img.shields.io/badge/Spring-0a0a0a?style=for-the-badge&logo=spring&logoColor=c8a050)
+![Python](https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=c8a050)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=c8a050)
+![MySQL](https://img.shields.io/badge/MySQL-0a0a0a?style=for-the-badge&logo=mysql&logoColor=c8a050)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0a?style=for-the-badge&logo=postgresql&logoColor=c8a050)
+![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=for-the-badge&logo=docker&logoColor=c8a050)
+![Linux](https://img.shields.io/badge/Linux-0a0a0a?style=for-the-badge&logo=linux&logoColor=c8a050)
+![Git](https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=c8a050)
+![Postman](https://img.shields.io/badge/Postman-0a0a0a?style=for-the-badge&logo=postman&logoColor=c8a050)
+
+</div>
+
+## GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tabaxco&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=c8a050&icon_color=c8a050&text_color=888888&border_color=1a1a1a&hide_border=false" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tabaxco&layout=compact&theme=dark&bg_color=0d0d0d&title_color=c8a050&text_color=888888&border_color=1a1a1a&hide_border=false" />
+</div>
