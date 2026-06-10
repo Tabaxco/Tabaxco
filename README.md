@@ -5,10 +5,10 @@
 <br/>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/guilherme-leite-rodrigues/">
     <img src="https://img.shields.io/badge/LINKEDIN-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=c8a050"/>
   </a>
-  <a href="https://discord.com/users/SEU_DISCORD_ID">
+  <a href="https://discord.com/users/422909140977975296">
     <img src="https://img.shields.io/badge/DISCORD-0a0a0a?style=for-the-badge&logo=discord&logoColor=c8a050"/>
   </a>
 </div>
