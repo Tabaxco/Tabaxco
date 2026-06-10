@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.discordapp.net/attachments/1356645331181244558/1514352165383180348/content.png?ex=6a2b0ddb&is=6a29bc5b&hm=84f37c2e04fe05b7d25cfd23bd564fad8bd6987130027faff593439e325dfd98&=&format=webp&quality=lossless&width=1198&height=479" alt="Tabaxco banner" width="100%"/>
+  <img src="https://media.discordapp.net/attachments/1356645331181244558/1514352165383180348/content.png?ex=6a2b0ddb&is=6a29bc5b&hm=84f37c2e04fe05b7d25cfd23bd564fad8bd6987130027faff593439e325dfd98&=&format=webp&quality=lossless&width=1198&height=479" alt="Tabaxco banner" width="70%"/>
 </div>
 
 <br/>
