@@ -21,18 +21,7 @@ My curiosity is what pulls me deeper into systems, APIs and the logic that holds
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-0b0b0b?style=for-the-badge&logo=openjdk&logoColor=ffffff)
-![Spring](https://img.shields.io/badge/Spring-0b0b0b?style=for-the-badge&logo=spring&logoColor=ffffff)
-![Python](https://img.shields.io/badge/Python-0b0b0b?style=for-the-badge&logo=python&logoColor=ffffff)
-![Go](https://img.shields.io/badge/Go-0b0b0b?style=for-the-badge&logo=go&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/JavaScript-0b0b0b?style=for-the-badge&logo=javascript&logoColor=ffffff)
-![MySQL](https://img.shields.io/badge/MySQL-0b0b0b?style=for-the-badge&logo=mysql&logoColor=ffffff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0b0b0b?style=for-the-badge&logo=postgresql&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/Docker-0b0b0b?style=for-the-badge&logo=docker&logoColor=ffffff)
-![Linux](https://img.shields.io/badge/Linux-0b0b0b?style=for-the-badge&logo=linux&logoColor=ffffff)
-![Git](https://img.shields.io/badge/Git-0b0b0b?style=for-the-badge&logo=git&logoColor=ffffff)
-![Postman](https://img.shields.io/badge/Postman-0b0b0b?style=for-the-badge&logo=postman&logoColor=ffffff)
-
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,spring,python,go,js,postgres,mysql,docker,linux,git,postman&theme=dark" /> </p>
 </div>
 
 ## GitHub Stats
