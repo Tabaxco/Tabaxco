@@ -21,7 +21,7 @@ My curiosity is what pulls me deeper into systems, APIs and the logic that holds
 
 <div align="center">
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=java,spring,python,go,js,postgres,mysql,docker,linux,git,postman&theme=dark" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,spring,python,html,css,postgres,mysql,docker,linux,git,postman&theme=dark" /> </p>
 </div>
 
 ## GitHub Stats
