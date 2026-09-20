@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="1983" height="793" src="ChrolloBanner.png" alt="Tabaxco Banner"/>
+  <img width="1983" height="793" src="hugocm.png" alt="Tabaxco Banner"/>
 </div>
 
 <div align="center">
